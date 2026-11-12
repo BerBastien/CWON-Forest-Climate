@@ -1,0 +1,2 @@
+calibration_year,target_GtC,raw_before_GtC,global_calibration_factor,method,source
+2022,312.321,110995.246705624,0.00281382319756738,"cVeg_total x forest_fraction, FAO-anchored",FAO Global Forest Resources Assessment 2025 (2022 interpolation of 2015/2025)

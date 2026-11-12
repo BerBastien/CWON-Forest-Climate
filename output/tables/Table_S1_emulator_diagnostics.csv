@@ -1,0 +1,10 @@
+model_label,median_R2,significant_linear,significant_quadratic,label
+JULES-ES,0.934968386377846,92.3713938521086,87.5646968810478,"median R2 = 0.93
+linear p < 0.05: 92%
+quadratic p < 0.05: 88%"
+LPJmL,0.699192022735865,85.3908816778433,82.0333948422521,"median R2 = 0.70
+linear p < 0.05: 85%
+quadratic p < 0.05: 82%"
+MC2,0.310151227700318,59.6556852494479,56.009734553157,"median R2 = 0.31
+linear p < 0.05: 60%
+quadratic p < 0.05: 56%"

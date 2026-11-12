@@ -1,0 +1,5 @@
+service,label,gdp_per_capita_elasticity,population_density_elasticity,include_in_official_total
+rec,Recreation,0.67,0.72,TRUE
+hab,Habitat,0.79,0.85,FALSE
+nwfp,Non-wood forest products,-1.11,0.57,TRUE
+wat,Water services,2.02,0,TRUE

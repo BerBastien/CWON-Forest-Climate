@@ -1,0 +1,2 @@
+calibration_year,target_GtC,raw_before_calibration_GtC,global_calibration_factor,pft_cover_to_fraction,source,source_url,method
+2022,312.321,47956.8219557819,0.00651254581231368,1,FAO Global Forest Resources Assessment 2025: carbon stock in forest biomass; 2022 interpolation of 2015 (310.55 GtC) and 2025 (313.08 GtC),https://fra-data.fao.org/assessments/fra/2025/WO/home/overview,Uniform multiplicative calibration of the full cVeg panel
